@@ -1,0 +1,7 @@
+c:\users\davud tombul\source\repos\COdev2\COdev2\obj\Debug\COdev2.csprojResolveAssemblyReference.cache
+c:\users\davud tombul\source\repos\COdev2\COdev2\obj\Debug\COdev2.csproj.CoreCompileInputs.cache
+c:\users\davud tombul\source\repos\COdev2\COdev2\bin\Debug\COdev2.exe.config
+c:\users\davud tombul\source\repos\COdev2\COdev2\bin\Debug\COdev2.exe
+c:\users\davud tombul\source\repos\COdev2\COdev2\bin\Debug\COdev2.pdb
+c:\users\davud tombul\source\repos\COdev2\COdev2\obj\Debug\COdev2.exe
+c:\users\davud tombul\source\repos\COdev2\COdev2\obj\Debug\COdev2.pdb
